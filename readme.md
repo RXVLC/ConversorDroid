@@ -1,4 +1,4 @@
-#Hola! Mi nombre es Rafa y este es mi 1 Proyecto en "C#"
+#Hola! Mi nombre es Rafa y este es mi 1 Proyecto en C
 
 ## Este proyecto se basa en un conversor de monedas, debido a que hablando con mis abuelos, 
 me gustaba hablarles de lo que me costaban las cosas, pero en pesetas. 
