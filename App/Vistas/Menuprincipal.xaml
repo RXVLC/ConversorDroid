@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App.Vistas.Menuprincipal"
+             NavigationPage.HasNavigationBar="False">
+            
+    <StackLayout BackgroundColor="#FEE6B9">
+        <Label Text="Conversor RX"
+               FontSize="30"
+               FontAttributes="Bold"
+               Margin="0,20,0,0"
+               HorizontalTextAlignment="Center" />
+        <Frame VerticalOptions="FillAndExpand"
+               Margin="20"
+               CornerRadius="10"
+               HasShadow="False">
+            <StackLayout VerticalOptions="Center"
+                         Spacing="20">
+                <Image Source="https://images.ecestaticos.com/xv3Rwi5bG7qf94lZCsBROqOeiZ4=/117x0:1998x1409/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa9a%2Ff76%2F046%2Fa9af7604633ff776ebe1d12b8eebc47c.jpg" />
+                <Label Text="Cambio de Pesetas a Euros"
+                       FontAttributes="Bold"
+                       FontSize="40"
+                       HorizontalOptions="CenterAndExpand" />
+                <Button Text="Vamos Allá!"
+                        TextTransform="None"
+                        BackgroundColor="#FDE080"
+                        CornerRadius="50"
+                        FontSize="Medium"
+                        FontAttributes="Bold"
+                        x:Name="btniniciar"
+                        Clicked="btniniciar_Clicked"/>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>
