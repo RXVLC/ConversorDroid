@@ -1,6 +1,6 @@
-#Hola! Mi nombre es Rafa y este es mi 1 Proyecto en C
+# Hola! Mi nombre es Rafa y este es mi 1 Proyecto en C
 
-## Este proyecto se basa en un conversor de monedas, debido a que hablando con mis abuelos, 
+ Este proyecto se basa en un conversor de monedas, debido a que hablando con mis abuelos, 
 me gustaba hablarles de lo que me costaban las cosas, pero en pesetas. 
 Las pocas veces que lo hacía tenía que sacar el movil, buscar una web,  tragarme 12321232 anuncios y ya después poder decirlo... 
 Este proyecto lo he hecho en una tarde, debido a que en la oficina estoy haciendo algo que requiere un poco más de ayuda ya que voy a implementar firebase y datos a un servidor... 
